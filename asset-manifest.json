@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/byte2byte/static/css/main.5ae1f25a.css",
+    "main.js": "/byte2byte/static/js/main.1c9b18e6.js",
+    "static/media/waiting.mp3": "/byte2byte/static/media/waiting.309d58b7428a0c1dd3cb.mp3",
+    "static/media/linked-bg 1.png": "/byte2byte/static/media/linked-bg 1.015088d7fb9763e90128.png",
+    "static/media/win.mp3": "/byte2byte/static/media/win.b0e01248f2b85b42ec97.mp3",
+    "static/media/lose.mp3": "/byte2byte/static/media/lose.6b2eb1aa1ffcec110107.mp3",
+    "static/media/logo-long.png": "/byte2byte/static/media/logo-long.997b89985ccfa87c11a6.png",
+    "static/media/click.mp3": "/byte2byte/static/media/click.aa42cd93544c10de935d.mp3",
+    "static/media/gamepad-filled.svg": "/byte2byte/static/media/gamepad-filled.ac488cfacacf986b30c9ac2700ad3c7d.svg",
+    "static/media/logo.svg": "/byte2byte/static/media/logo.9f8141f697149607dba0c795159c6872.svg",
+    "static/media/settings.svg": "/byte2byte/static/media/settings.633bc6830ceaff643493980b02e41e2a.svg",
+    "static/media/gamepad.svg": "/byte2byte/static/media/gamepad.d289843b6956d556c607f71256ec9bca.svg",
+    "static/media/settings-filled.svg": "/byte2byte/static/media/settings-filled.3805aef6c9280016f59bb9adac966aff.svg",
+    "static/media/home-filled.svg": "/byte2byte/static/media/home-filled.ac0426d36f2ec5875a6e0e25cccfb1c2.svg",
+    "index.html": "/byte2byte/index.html",
+    "static/media/home.svg": "/byte2byte/static/media/home.7476d163271e9ac21c7110d6c72501c2.svg",
+    "static/media/link-arrow.svg": "/byte2byte/static/media/link-arrow.c53d689aa72363f63e80dd4a297f1b63.svg",
+    "main.5ae1f25a.css.map": "/byte2byte/static/css/main.5ae1f25a.css.map",
+    "main.1c9b18e6.js.map": "/byte2byte/static/js/main.1c9b18e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae1f25a.css",
+    "static/js/main.1c9b18e6.js"
+  ]
+}
